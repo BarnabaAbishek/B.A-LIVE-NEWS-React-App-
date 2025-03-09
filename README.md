@@ -15,24 +15,7 @@ BA LIVE NEWS is a React-based news application that allows users to search, brow
 
 ---
 
-## **Screenshots**
 
-### Home Page
- 
-
-
-
-
-### News Categories
- 
-
-
-
-### News Article Details
- 
-
-### Mobile Responsiveness
- ---
 
 
 ## **Technologies Used**
@@ -66,8 +49,10 @@ REACT_APP_NEWS_API_KEY=your_api_key_here
 npm start
 The application will open at http://localhost:3000.
 
+
+
 Folder Structure
-Copy
+
 ba-live-news/
 ├── public/                  # Static assets
 ├── src/
